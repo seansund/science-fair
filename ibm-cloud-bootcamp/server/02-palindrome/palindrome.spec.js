@@ -1,4 +1,4 @@
-describe.only('a palindrome function', () => {
+describe('a palindrome function', () => {
   it('canary test verifies the test infrastructure', () => {
     true.should.be.true();
   });
